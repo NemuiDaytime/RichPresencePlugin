@@ -1,0 +1,9 @@
+
+{
+  "manifest": "manifest.json",
+  "main": "dist/index.js",
+  "name": "RichPresence",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "description": "Enhanced Discord Rich Presence with Apple Music support."
+}
